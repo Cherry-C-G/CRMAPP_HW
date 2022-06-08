@@ -1,0 +1,15 @@
+C:\Antra\.Net\CRMApp\Antra.CRMApp.Infrastructure\bin\Debug\net6.0\Antra.CRMApp.Infrastructure.deps.json
+C:\Antra\.Net\CRMApp\Antra.CRMApp.Infrastructure\bin\Debug\net6.0\Antra.CRMApp.Infrastructure.dll
+C:\Antra\.Net\CRMApp\Antra.CRMApp.Infrastructure\bin\Debug\net6.0\Antra.CRMApp.Infrastructure.pdb
+C:\Antra\.Net\CRMApp\Antra.CRMApp.Infrastructure\bin\Debug\net6.0\Antra.CRMApp.Core.dll
+C:\Antra\.Net\CRMApp\Antra.CRMApp.Infrastructure\bin\Debug\net6.0\Antra.CRMApp.Core.pdb
+C:\Antra\.Net\CRMApp\Antra.CRMApp.Infrastructure\obj\Debug\net6.0\Antra.CRMApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Antra\.Net\CRMApp\Antra.CRMApp.Infrastructure\obj\Debug\net6.0\Antra.CRMApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Antra\.Net\CRMApp\Antra.CRMApp.Infrastructure\obj\Debug\net6.0\Antra.CRMApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Antra\.Net\CRMApp\Antra.CRMApp.Infrastructure\obj\Debug\net6.0\Antra.CRMApp.Infrastructure.AssemblyInfo.cs
+C:\Antra\.Net\CRMApp\Antra.CRMApp.Infrastructure\obj\Debug\net6.0\Antra.CRMApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Antra\.Net\CRMApp\Antra.CRMApp.Infrastructure\obj\Debug\net6.0\Antra.CRMApp.Infrastructure.csproj.CopyComplete
+C:\Antra\.Net\CRMApp\Antra.CRMApp.Infrastructure\obj\Debug\net6.0\Antra.CRMApp.Infrastructure.dll
+C:\Antra\.Net\CRMApp\Antra.CRMApp.Infrastructure\obj\Debug\net6.0\refint\Antra.CRMApp.Infrastructure.dll
+C:\Antra\.Net\CRMApp\Antra.CRMApp.Infrastructure\obj\Debug\net6.0\Antra.CRMApp.Infrastructure.pdb
+C:\Antra\.Net\CRMApp\Antra.CRMApp.Infrastructure\obj\Debug\net6.0\ref\Antra.CRMApp.Infrastructure.dll
